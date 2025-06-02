@@ -230,6 +230,14 @@ body{
 
 @media(min-width:900px){
     .main{
+        width: 35%;
+
+        margin-block: 15%;
+    }
+}
+
+@media(min-width:1400px){
+    .main{
         width: 25%;
 
         margin-block: 15%;
