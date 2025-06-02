@@ -182,7 +182,7 @@ body{
     justify-content: center;
 }
 
-.equilibrium_active:hover{
+.equilibrium:hover .equilibrium_active{
     cursor: pointer;
 
     opacity: 0.5;
